@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background-color: cornsilk;
+}
+
+.announcement {
+    display: inline;
+}
+
+marquee {
+    background-color: darkcyan;
+    font-size: 30px;
+    color: white;
+}
